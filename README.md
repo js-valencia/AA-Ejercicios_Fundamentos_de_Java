@@ -11,10 +11,9 @@
 Resolución de ejercicios fundamentales enfocados en lógica de programación.
 
 ## 📂 Estructura del Repositorio
-Organización lógica para una navegación rápida:
 
-* `/Desafios`: Desafíos básicos de sintaxis, flujo y cadenas.
-* `/Screenshots`: Evidencia de los Ejercicios Resueltos en HackerRank.
+* `/Resultados`: Desafíos básicos de sintaxis, flujo y cadenas y evidencia de los ejercicios resueltos en HackerRank.
+* [Ir a Resultados](Evidencia de los Ejercicios Resueltos en HackerRank.)
 
 ---
 
