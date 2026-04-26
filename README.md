@@ -13,7 +13,7 @@ Resolución de ejercicios fundamentales enfocados en lógica de programación.
 ## 📂 Estructura del Repositorio
 
 * `/Resultados`: Desafíos básicos de sintaxis, flujo y cadenas y evidencia de los ejercicios resueltos en HackerRank.
-* [Ir a Resultados](Evidencia de los Ejercicios Resueltos en HackerRank.)
+* [Ir a Resultados](https://github.com/js-valencia/AA-Ejercicios_Fundamentos_de_Java/blob/main/Resultados.md)
 
 ---
 
